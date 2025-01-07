@@ -21,7 +21,7 @@ This repository contains the code and assets for the Sales Performance Dashboard
 
   * Data Sources: CSV/Excel data files for sales, shipment, and performance metrics.
     
-  * Languages: DAX (Data Analysis Expressions) and M Query for data modeling.
+  * Languages: DAX (Data Analysis Expressions) and Power Query for data modeling.
 
 
 
